@@ -1,0 +1,3 @@
+[submodule "ActivityMonitorAPP/Activity-Monitor"]
+	path = ActivityMonitorAPP/Activity-Monitor
+	url = https://github.com/aayush2710/Activity-Monitor
