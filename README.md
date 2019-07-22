@@ -5,7 +5,7 @@ A small device which tracks 4 physical states.
 3) Walking
 4) Running
 
-Components Used - Genuino 101
+Component Used - Genuino 101
 Genuino 101 is a learning and development board based on Intel Curie module. The board recognises gestures, and features a six-axis accelerometer and gyroscope. It also hass a inbuilt Bluetooth Low Energy (BLE). The intel curie module has a inbuilt Pattern Matching Engine. It has a 128 node hardware neural network with two classification alogirthms - the RBF kernel SVM(Support Vector Machine) and K Nearest Neighbours Classification.
 
 # Steps
