@@ -1,5 +1,6 @@
 # Activity Monitoring Device
-A small device which tracks 4 physical states.
+This is our first project for Robotix Club, IIT Hyderabad.
+This is a small device which tracks 4 physical states.
 1) Sitting
 2) Standing
 3) Walking
